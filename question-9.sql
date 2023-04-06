@@ -5,4 +5,4 @@ Pittsburgh (I dislike their football team), or Jacksonville (because Florida) fr
 DELETE FROM persons
 WHERE city = 'Kansas City'
 OR city = 'Pittsburgh'
-OR city = 'Jacksonville'
+OR city = 'Jacksonville';

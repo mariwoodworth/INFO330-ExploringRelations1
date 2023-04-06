@@ -5,13 +5,13 @@ SELECT age, title
 FROM persons
 WHERE title = 'Dr'
 AND city = 'West Palm Beach'
-AND gender = 'Female' */
+AND gender = 'Female'; */
 
  /* Rev is 101 y/o
 SELECT age, title
 FROM persons
 WHERE title = 'Rev'
 AND city = 'Phoenix'
-AND gender = 'Male' */
+AND gender = 'Male'; */
 
 -- They are not the same age. The reverend is older than the doctor. 

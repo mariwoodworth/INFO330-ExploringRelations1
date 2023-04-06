@@ -3,4 +3,4 @@ Write a SQL statement to change the city for all persons currently living in Sac
  
  UPDATE persons
  SET city = 'Tulsa'
- WHERE city = 'Sacramento'
+ WHERE city = 'Sacramento';

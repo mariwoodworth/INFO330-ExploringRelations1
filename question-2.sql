@@ -4,4 +4,4 @@ age less than 30 (meaning age 29 and down)? */
 SELECT first_name, last_name
 FROM persons
 WHERE age < 30
-ORDER BY last_name
+ORDER BY last_name;

@@ -4,4 +4,4 @@
  SELECT first_name, last_name
  FROM persons
  WHERE title LIKE 'Rev%'
- ORDER BY last_name
+ ORDER BY last_name;
